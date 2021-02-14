@@ -37,4 +37,7 @@ the procedure is as follows:
 * After recognizing such points we calculate the values required to draw on the image.
 * From the obtained values of parametres we acquire the intercepts and use the ```cv.line``` drawing function by feeding both the intercepts resulting in the ouput image.
 
+![alt text](https://github.com/SIDDXSingh/Hough-Transform-and-lines/blob/master/Snippets/1_pSAwZyau08leeYmTM9203Q.png)
+
+
 NOTE: **The top left corner of the image is considered as origin and hence the image is in 4th quadrant. Assuming 'D' vary from +d to -d where d is the length of the diagonal of the image with theta restricting from -90 to +90** 
